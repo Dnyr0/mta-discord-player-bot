@@ -1,0 +1,8 @@
+token,type-token
+staffs,Console,Kurucu,Admin
+vips,BronzeVip,GoldVip,SilverVip
+player_list_file_way,C:/Users/Ali/Desktop/[ATA]Discordstatus/player_count.txt
+guild_id,-
+channel_id,-
+server_logo,https://cdn.discordapp.com/attachments/992856418363375766/1124319215902543892/98df0772e5aa4ceeee7e3494d66b0d62.png
+max_player_count,1967
